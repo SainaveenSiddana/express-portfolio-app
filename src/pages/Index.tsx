@@ -252,12 +252,12 @@ const Index = () => {
                 </div>
               </div>
 
-              <div className="relative">
+              <div className="relative flex items-center">
                 <div className="relative w-full max-w-md mx-auto">
                   <img
                     src={profileImage}
                     alt="Sai Naveen Siddana"
-                    className="w-full h-auto rounded-3xl shadow-2xl"
+                    className="w-full h-full max-h-[600px] object-cover rounded-3xl shadow-2xl"
                   />
                   <div className="absolute -top-6 -left-6 bg-glass-bg border border-glass-border backdrop-blur-md rounded-2xl p-4 shadow-lg animate-float">
                     <i className="fas fa-code text-2xl text-primary mb-2 block" />
