@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/profile.jpg";
+import profileImage from "@/assets/profile-square.jpg";
 import projectPranix from "@/assets/project-pranix.jpg";
 import projectNAEvents from "@/assets/project-naevents.jpg";
 import { toast } from "sonner";
