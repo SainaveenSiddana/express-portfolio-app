@@ -57,6 +57,8 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "glass-bg": "var(--glass-bg)",
+        "glass-border": "var(--glass-border)",
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -84,6 +86,10 @@ export default {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+        fadeInUp: "fadeInUp 0.8s ease forwards",
+        blink: "blink 1s infinite",
+        float: "float 6s ease-in-out infinite",
+        shimmer: "shimmer 2s infinite",
       },
     },
   },
