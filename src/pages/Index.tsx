@@ -238,7 +238,9 @@ const Index = () => {
                     <i className="fab fa-linkedin-in text-xl" />
                   </a>
                   <a
-                    href="#"
+                    href="https://github.com/SainaveenSiddana"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="w-12 h-12 bg-glass-bg border border-glass-border rounded-xl flex items-center justify-center text-foreground hover:text-primary hover:border-primary hover:-translate-y-1 transition-all duration-300"
                   >
                     <i className="fab fa-github text-xl" />
