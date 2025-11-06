@@ -211,6 +211,15 @@ const Index = () => {
                     <span>Hire Me</span>
                     <i className="fas fa-arrow-right group-hover:translate-x-1 transition-transform" />
                   </button>
+                  <a
+                    href="https://wa.me/917674800527"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group bg-glass-bg border border-glass-border text-foreground px-8 py-4 rounded-full font-semibold flex items-center gap-2 hover:bg-primary/10 hover:-translate-y-1 transition-all duration-300"
+                  >
+                    <i className="fab fa-whatsapp group-hover:scale-110 transition-transform" />
+                    <span>Send Message</span>
+                  </a>
                   <button
                     onClick={handleDownloadCV}
                     className="group bg-glass-bg border border-glass-border text-foreground px-8 py-4 rounded-full font-semibold flex items-center gap-2 hover:bg-primary/10 hover:-translate-y-1 transition-all duration-300"
