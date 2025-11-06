@@ -549,16 +549,20 @@ const Index = () => {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-background/90 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
                     <a
-                      href="#"
+                      href="https://www.behance.net/sainaveenreddy"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-primary-foreground hover:scale-110 transition-transform"
                     >
                       <i className="fas fa-external-link-alt" />
                     </a>
                     <a
-                      href="#"
+                      href="https://www.behance.net/sainaveenreddy"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-primary-foreground hover:scale-110 transition-transform"
                     >
-                      <i className="fab fa-github" />
+                      <i className="fab fa-behance" />
                     </a>
                   </div>
                 </div>
@@ -594,16 +598,20 @@ const Index = () => {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-background/90 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
                     <a
-                      href="#"
+                      href="https://www.behance.net/sainaveenreddy"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-primary-foreground hover:scale-110 transition-transform"
                     >
                       <i className="fas fa-external-link-alt" />
                     </a>
                     <a
-                      href="#"
+                      href="https://www.behance.net/sainaveenreddy"
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-primary-foreground hover:scale-110 transition-transform"
                     >
-                      <i className="fab fa-github" />
+                      <i className="fab fa-behance" />
                     </a>
                   </div>
                 </div>
